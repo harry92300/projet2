@@ -1,0 +1,36 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #303030;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.horraire{
+    color: #FFFFFF;
+    font-size: 30px;}
+    
+    body{
+        background-color: #5A5555;
+    }
+    .horaires2{
+        position: absolute;
+    }
+    .horaires2{
+        position: absolute;
+        top: 0;
+        right: 0;
+        font-size: large;
+    }
+    h1{
+        font-size: 25px;
+        color: darkred;
+    }
+    p{
+        color: navy;
+        font-size: 15px;
+        Font family: Inter
+        Font style: Regular
+        Line height: 48px
+        Line height: 100%
+        Align: Left
+    }
